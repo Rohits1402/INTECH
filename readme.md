@@ -10,7 +10,7 @@ The specific details of the interview question are not provided in this README. 
 
 ## Solution
 
-The solution is implemented in [insert language here]. The code is well-commented, organized, and designed to provide a clear and efficient solution to the given problem.
+The solution is implemented in C++. The code is well-commented, organized, and designed to provide a clear and efficient solution to the given problem.
 
 ## Instructions
 
